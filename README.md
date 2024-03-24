@@ -65,7 +65,7 @@ Insert App Flow Picture Here
   - **Advanced Options Button:** Redirects to the advanced options interface.
 
 - **Advanced Options Interface:** Presents advanced functionalities such as adding fixed deposits, applying for loans, and managing loans and fixed deposits.  
-  ![Advanced Options Interface](/JAVA_output_Image/Advanced_Options_interface.png)
+  ![Advanced Options Interface](/JAVA_output_Image/Advanced_Option_interface.png)
   - **User Details:** Displays the details of all users, including their name, account number, account type, and balance.
   - **Refresh Button:** Refreshes the list of users.
   - **Trace Users Button:** Allows the user to trace and view specific user details.
