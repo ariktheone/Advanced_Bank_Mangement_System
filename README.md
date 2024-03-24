@@ -35,7 +35,7 @@ Insert App Flow Picture Here
   ![Worker Interface](/JAVA_output_Image/Worker_interface.png)
 
 - **Advanced Options Interface:** Presents advanced functionalities such as adding fixed deposits, applying for loans, and managing loans and fixed deposits.  
-  ![Advanced Options Interface](/JAVA_output_Image/Advanced_Options_interface.png)
+  ![Advanced Options Interface](/JAVA_output_Image/Advanced_Option_interface.png)
 
 ## Future Aspects
 - **Advanced Development:** Potential for enhancing the application with more sophisticated features and improved design.
