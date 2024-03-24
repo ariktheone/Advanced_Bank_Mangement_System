@@ -12,23 +12,29 @@ Existing banking management applications often demand extensive knowledge of app
 - **Multiple Interfaces:** Provides separate interfaces for admin, user, worker, and advanced options, catering to specific roles and functionalities.
 
 ## App Flow
-Insert App Flow Picture Here
-![App Flow](/Javaimages/Flow_of_the_App.png)
+Insert App Flow Picture Here  
+![App Flow](/JAVA_output_Image/Flow_of_the_App.png)
 
 ## Screens and Interfaces
-- **Initial Screen:** Features buttons for admin login, user login, new account creation, and worker login.
+- **Initial Screen:** Features buttons for admin login, user login, new account creation, and worker login.  
   ![Initial Screen](/JAVA_output_Image/initial_Screen.png)
-- **Login Interface:** Allows users to input credentials for system access.
+
+- **Login Interface:** Allows users to input credentials for system access.  
   ![Login Interface](/JAVA_output_Image/Login_interface.png)
-- **User Interface:** Displays user details and facilitates actions like depositing, withdrawing, and logging out.
+
+- **User Interface:** Displays user details and facilitates actions like depositing, withdrawing, and logging out.  
   ![User Interface](/JAVA_output_Image/User_interface.png)
-- **New Account Interface:** Guides users through the account creation process.
+
+- **New Account Interface:** Guides users through the account creation process.  
   ![New Account Interface](/JAVA_output_Image/New_Account_interface.png)
-- **Admin Interface:** Grants administrators access to user details, balance modification options, and search functionality.
+
+- **Admin Interface:** Grants administrators access to user details, balance modification options, and search functionality.  
   ![Admin Interface](/JAVA_output_Image/Admin_interface.png)
-- **Worker Interface:** Offers similar functionalities as the admin interface, tailored for workers.
+
+- **Worker Interface:** Offers similar functionalities as the admin interface, tailored for workers.  
   ![Worker Interface](/JAVA_output_Image/Worker_interface.png)
-- **Advanced Options Interface:** Presents advanced functionalities such as adding fixed deposits, applying for loans, and managing loans and fixed deposits.
+
+- **Advanced Options Interface:** Presents advanced functionalities such as adding fixed deposits, applying for loans, and managing loans and fixed deposits.  
   ![Advanced Options Interface](/JAVA_output_Image/Advanced_Options_interface.png)
 
 ## Future Aspects
